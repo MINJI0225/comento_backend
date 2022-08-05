@@ -11,4 +11,4 @@
 <img width="80%" src="https://user-images.githubusercontent.com/69569367/183076403-8b84ca71-bba3-4618-9e81-408385fdbe1e.PNG"/>
 
 ## 2차 과제 _ API 가이드 문서 작성
-##### https://www.notion.so/SW-API-8b1abc31578f4a74a895e9834ab8de81
+##### https://highfalutin-oak-86d.notion.site/SW-API-8b1abc31578f4a74a895e9834ab8de81
