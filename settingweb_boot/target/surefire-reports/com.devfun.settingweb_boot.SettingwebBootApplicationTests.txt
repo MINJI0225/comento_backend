@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.devfun.settingweb_boot.SettingwebBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.135 s - in com.devfun.settingweb_boot.SettingwebBootApplicationTests
