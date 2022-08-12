@@ -23,7 +23,7 @@
 해결: SettingwebBootApplication.java로 project를 실행
 
 ##### 질문: spring boot version 문제
-pom.xml에서 2.2.2.RELEASE로 바꾸려고 시도하였으나,
+pom.xml에서 2.2.2.RELEASE로 바꾸려고 시도하였으나,   
 Multiple markers at this line
 - Non-resolvable parent POM for com.devfun:settingweb_boot:0.0.1-SNAPSHOT: org.springframework.boot:spring-boot-starter-parent:pom:2.2.2.RELEASE was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
 - Project build error: Non-resolvable parent POM for com.devfun:settingweb_boot:0.0.1-SNAPSHOT: org.springframework.boot:spring-boot-starter-parent:pom:2.2.2.RELEASE was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at no local POM    
